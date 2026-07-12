@@ -1,0 +1,6 @@
+{
+  "name": "Maâlem Malik Carpenter Pro",
+  "description": "Premium AI-powered carpentry workshop and project management platform with automated room scanning, design assistant, inventory tracking, and CRM.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
